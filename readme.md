@@ -7,6 +7,10 @@
 ## 特別感謝
 TWJUG 提供練習機會及協助張羅工作坊相關事宜，讓我們可以好好專注在準備工作坊內容！
 
+## 極度工商
+- [你就是不寫測試才會沒時間：Kuma 的單元測試實戰 -- Java篇（iThome鐵人賽系列書）](https://www.tenlong.com.tw/products/9786263332645)
+- [公司持續徵才中](https://www.104.com.tw/company/1a2x6blkuu)
+
 ## References
 - [報名網頁](https://twjug.kktix.cc/events/twjug-lite-24)
 - [LeetCode - 12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
